@@ -1,0 +1,3 @@
+japanize-matplotlib
+optuna
+modin[all]

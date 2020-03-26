@@ -1,0 +1,12 @@
+pandas-gbq
+gensim
+tensorflow
+tensorflow-gpu
+Keras
+lightgbm
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-bigquery-storage
+pyarrow
+pystan
+lifelines
